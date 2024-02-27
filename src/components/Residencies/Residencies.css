@@ -72,6 +72,9 @@
         align-items: center;
     }
     .r-button{
-        position: initial;
+        position: relative;
+        top: 20px;
+
     }
+    
 }
