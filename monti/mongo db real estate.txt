@@ -1,0 +1,2 @@
+adding data in mongodb :--  ./mongoimport --uri mongodb+srv://montijha143:shizuka6867@cluster0.kmuxlsg.mongodb.net/RealEstate --collection Residency --type json --jsonArray --file Residency.json
+
